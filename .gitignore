@@ -1,0 +1,7 @@
+# gitignore file
+
+.idea
+
+logs
+
+.pyc
